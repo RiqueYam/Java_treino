@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\yugoy\OneDrive\Área de Trabalho\Workspace-treinamento\.metadata\.plugins\org.eclipse.jdt.core
+3855371069.index
+496898246.index
+1865797976.index
